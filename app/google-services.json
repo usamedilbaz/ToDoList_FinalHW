@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "273166309427",
+    "firebase_url": "https://todolist-finalhw-default-rtdb.firebaseio.com",
+    "project_id": "todolist-finalhw",
+    "storage_bucket": "todolist-finalhw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273166309427:android:f795fc3addc4639abc2b46",
+        "android_client_info": {
+          "package_name": "com.example.todolist_finalhw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273166309427-vi961s13hp05jrdtkcv4e8ufhe12gc6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjBW9FnfhG7sYIGZwgHKs-nrjwlY9JmHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273166309427-vi961s13hp05jrdtkcv4e8ufhe12gc6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
